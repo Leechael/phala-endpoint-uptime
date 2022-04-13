@@ -8,6 +8,7 @@ sites:
   - name: Wiki
     url: https://wiki.phala.network/en-us/
   - name: para1-api
+    type: "ws"
     url: http://para1-api.phala.network/
 
 status-website:
