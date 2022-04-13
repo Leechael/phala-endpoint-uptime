@@ -9,7 +9,13 @@ sites:
     url: https://wiki.phala.network/en-us/
   - name: para1-api
     type: "ws"
-    url: http://para1-api.phala.network/
+    url: wss://para1-api.phala.network/ws
+  - name: poc5
+    type: "ws"
+    url: wss://poc5.phala.network/ws
+  - name: poc5-2
+    type: "ws"
+    url: wss://poc5-2.phala.network/ws
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
