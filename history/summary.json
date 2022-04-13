@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 177,
-    "timeWeek": 177,
-    "timeMonth": 177,
-    "timeYear": 177,
+    "time": 173,
+    "timeDay": 173,
+    "timeWeek": 173,
+    "timeMonth": 173,
+    "timeYear": 173,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,71 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 423,
-    "timeDay": 423,
-    "timeWeek": 423,
-    "timeMonth": 423,
-    "timeYear": 423,
+    "time": 361,
+    "timeDay": 361,
+    "timeWeek": 361,
+    "timeMonth": 361,
+    "timeYear": 361,
     "dailyMinutesDown": {}
   },
   {
     "name": "para1-api",
-    "url": "http://para1-api.phala.network/",
+    "url": "wss://para1-api.phala.network/ws",
     "icon": "https://favicons.githubusercontent.com/para1-api.phala.network",
     "slug": "para1-api",
     "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-13": 21
+      "2022-04-13": 68
+    }
+  },
+  {
+    "name": "poc5",
+    "url": "wss://poc5.phala.network/ws",
+    "icon": "https://favicons.githubusercontent.com/poc5.phala.network",
+    "slug": "poc5",
+    "status": "down",
+    "uptime": "19.82%",
+    "uptimeDay": "19.82%",
+    "uptimeWeek": "19.82%",
+    "uptimeMonth": "19.82%",
+    "uptimeYear": "19.82%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
+  },
+  {
+    "name": "poc5-2",
+    "url": "wss://poc5-2.phala.network/ws",
+    "icon": "https://favicons.githubusercontent.com/poc5-2.phala.network",
+    "slug": "poc5-2",
+    "status": "down",
+    "uptime": "7.09%",
+    "uptimeDay": "7.09%",
+    "uptimeWeek": "7.09%",
+    "uptimeMonth": "7.09%",
+    "uptimeYear": "7.09%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-04-13": 0
     }
   }
 ]
