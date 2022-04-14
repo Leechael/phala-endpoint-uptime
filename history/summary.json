@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 200,
-    "timeDay": 200,
-    "timeWeek": 200,
-    "timeMonth": 200,
-    "timeYear": 200,
+    "time": 195,
+    "timeDay": 195,
+    "timeWeek": 195,
+    "timeMonth": 195,
+    "timeYear": 195,
     "dailyMinutesDown": {}
   },
   {
@@ -28,18 +28,39 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 248,
-    "timeDay": 248,
-    "timeWeek": 248,
-    "timeMonth": 248,
-    "timeYear": 248,
+    "time": 233,
+    "timeDay": 233,
+    "timeWeek": 233,
+    "timeMonth": 233,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   },
   {
-    "name": "para1-api",
-    "url": "wss://para1-api.phala.network/ws",
-    "icon": "https://favicons.githubusercontent.com/para1-api.phala.network",
-    "slug": "para1-api",
+    "name": "poc5",
+    "url": "wss://poc5.phala.network/ws",
+    "icon": "https://favicons.githubusercontent.com/poc5.phala.network",
+    "slug": "poc5",
+    "status": "down",
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-04-14": 612,
+      "2022-04-13": 621
+    }
+  },
+  {
+    "name": "poc5-2",
+    "url": "wss://poc5-2.phala.network/ws",
+    "icon": "https://favicons.githubusercontent.com/poc5-2.phala.network",
+    "slug": "poc5-2",
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
@@ -52,28 +73,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-14": 612,
-      "2022-04-13": 689
-    }
-  },
-  {
-    "name": "poc5",
-    "url": "wss://poc5.phala.network/ws",
-    "icon": "https://favicons.githubusercontent.com/poc5.phala.network",
-    "slug": "poc5",
-    "status": "up",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-04-14": 612,
+      "2022-04-14": 615,
       "2022-04-13": 621
     }
   }
