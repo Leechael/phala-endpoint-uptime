@@ -40,19 +40,19 @@
     "url": "wss://poc5.phala.network/ws",
     "icon": "https://favicons.githubusercontent.com/poc5.phala.network",
     "slug": "poc5",
-    "status": "up",
-    "uptime": "2.40%",
-    "uptimeDay": "2.40%",
-    "uptimeWeek": "2.40%",
-    "uptimeMonth": "2.40%",
-    "uptimeYear": "2.40%",
+    "status": "down",
+    "uptime": "2.39%",
+    "uptimeDay": "2.39%",
+    "uptimeWeek": "2.39%",
+    "uptimeMonth": "2.39%",
+    "uptimeYear": "2.39%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-14": 666,
+      "2022-04-14": 667,
       "2022-04-13": 621
     }
   },
@@ -73,7 +73,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-14": 698,
+      "2022-04-14": 699,
       "2022-04-13": 621
     }
   }
