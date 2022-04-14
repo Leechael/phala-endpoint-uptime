@@ -1,7 +1,7 @@
 url: wss://poc5.phala.network/ws
-status: up
-code: 200
+status: down
+code: 0
 responseTime: 0
-lastUpdated: 2022-04-14T10:12:16.925Z
+lastUpdated: 2022-04-14T10:15:05.246Z
 startTime: Wed Apr 13 2022 13:38:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
