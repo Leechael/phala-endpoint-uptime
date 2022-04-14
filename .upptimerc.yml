@@ -15,10 +15,10 @@ sites:
     check: "ws"
     url: wss://poc5.phala.network/ws
     body: '{"id":1,"jsonrpc":"2.0","method":"chain_getBlockHash","params":[0]}'
-  - name: poc5-2
-    check: "ws"
-    url: wss://poc5-2.phala.network/ws
-    body: '{"id":1,"jsonrpc":"2.0","method":"chain_getBlockHash","params":[0]}'
+#   - name: poc5-2
+#     check: "ws"
+#     url: wss://poc5-2.phala.network/ws
+#     body: '{"id":1,"jsonrpc":"2.0","method":"chain_getBlockHash","params":[0]}'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
