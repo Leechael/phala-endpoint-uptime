@@ -34,5 +34,4 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-workflowSchedule:
-    updateTemplate: "0 0 * */99 *"
+uses: Leechael/uptime-monitor@ac96b730ba5321711bc07a3463838306af6360c1
