@@ -34,4 +34,4 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-uses: Leechael/uptime-monitor@ac96b730ba5321711bc07a3463838306af6360c1
+uses: Leechael/uptime-monitor@0d123e96c65cadf3069a29a17114f381518d4afc
