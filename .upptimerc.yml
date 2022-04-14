@@ -8,15 +8,15 @@ sites:
   - name: Wiki
     url: https://wiki.phala.network/en-us/
   - name: para1-api
-    type: "ws"
+    check: "ws"
     url: wss://para1-api.phala.network/ws
     body: '{"id":1,"jsonrpc":"2.0","method":"chain_getBlockHash","params":[0]}'
   - name: poc5
-    type: "ws"
+    check: "ws"
     url: wss://poc5.phala.network/ws
     body: '{"id":1,"jsonrpc":"2.0","method":"chain_getBlockHash","params":[0]}'
   - name: poc5-2
-    type: "ws"
+    check: "ws"
     url: wss://poc5-2.phala.network/ws
     body: '{"id":1,"jsonrpc":"2.0","method":"chain_getBlockHash","params":[0]}'
 
